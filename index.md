@@ -1,5 +1,12 @@
 ---
 layout: default
+title: "Post-Transcriptional Mechano-Reprogramming"
+---
+
+### Post-Transcriptional Mechano-Reprogramming Drives Therapy Resistance in Luminal Breast Cancer Independently of Genomic Alterations
+
+### Post-Transcriptional Mechano-Reprogramming Drives Therapy Resistance in Luminal Breast Cancer Independently of Genomic Alterations---
+layout: default
 title: Post-Transcriptional Mechano-Reprogramming
 ---### Post-Transcriptional Mechano-Reprogramming Drives Therapy Resistance in Luminal Breast Cancer Independently of Genomic Alterations
 
